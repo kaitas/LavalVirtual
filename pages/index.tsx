@@ -44,7 +44,7 @@ export default function Home() {
           Laval Virtual 
           <Image
             className={styles.logo}
-            src="/next.svg"
+            src="next.svg"
             alt="Next.js Logo"
             width={180}
             height={37}
