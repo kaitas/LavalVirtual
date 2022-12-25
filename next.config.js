@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
-//const urlPrefix = process.env.URL_PREFIX ? '/' + process.env.URL_PREFIX : ''
+
+// steps.deployment.outputs.page_url
+const urlPrefix = process.env.URL_PREFIX ? '/' + process.env.URL_PREFIX : ''
 
 const nextConfig = {
   reactStrictMode: true,
