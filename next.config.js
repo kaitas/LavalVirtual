@@ -10,8 +10,8 @@ const nextConfig = {
 // module.exports = nextConfig
 
 module.exports = {
-//  assetPrefix: urlPrefix,
-//  basePath: urlPrefix,
+  assetPrefix: urlPrefix,
+  basePath: urlPrefix,
   trailingSlash: true,
   optimizeFonts: false,
 //  output: 'standalone',
