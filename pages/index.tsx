@@ -64,7 +64,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://github.com/kaitas/ReVolution"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -73,7 +73,7 @@ export default function Home() {
               Templates <span>-&gt;</span>
             </h2>
             <p className={styles.container}>
-              Discover and deploy boilerplate example Next.js&nbsp;projects.
+              Discover past template in 2014.
             </p>
           </a>
 
