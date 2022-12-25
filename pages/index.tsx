@@ -23,13 +23,12 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          Akihiko Shirai in Laval Virtual &nbsp;  
+          Akihiko Shirai in <a href="https://laval-virtual.com/">Laval Virtual</a> &nbsp;  
           <Image
             className={styles.logo}
-            src="HakaseQR.png"
-            alt="Next.js Logo"
+            src="lv.svg"
+            alt="Laval Virtual Logo"
             width={180}
-            height={180}
             priority
           />
         </div>
