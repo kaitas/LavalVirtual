@@ -26,7 +26,7 @@ export default function Home() {
           Akihiko Shirai in Laval Virtual &nbsp;  
           <Image
             className={styles.logo}
-            src="/HakaseQR.png"
+            src="HakaseQR.png"
             alt="Next.js Logo"
             width={180}
             height={180}
