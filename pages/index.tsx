@@ -18,61 +18,34 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.description}>
           <p>
-            Get started by editing&nbsp;
-            <code className={styles.code}>pages/index.tsx</code>
+            Site in development...
           </p>
-          <div>
-            <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              By{' '}
-              <Image
-                src="/vercel.svg"
-                alt="Vercel Logo"
-                className={styles.vercelLogo}
-                width={100}
-                height={24}
-                priority
-              />
-            </a>
-          </div>
         </div>
 
         <div className={styles.center}>
-          Laval Virtual 
+          Akihiko Shirai in Laval Virtual &nbsp;  
           <Image
             className={styles.logo}
-            src="next.svg"
+            src="/HakaseQR.png"
             alt="Next.js Logo"
             width={180}
-            height={37}
+            height={180}
             priority
           />
-          <div className={styles.thirteen}>
-            <Image
-              src="/thirteen.svg"
-              alt="13"
-              width={40}
-              height={31}
-              priority
-            />
-          </div>
         </div>
 
         <div className={styles.grid}>
           <a
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="http://j.mp/ReVo18photo"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
           >
             <h2 className={styles.container}>
-              Docs <span>-&gt;</span>
+            ReVo18
             </h2>
             <p className={styles.container}>
-              Find in-depth information about Next.js features and&nbsp;API.
+              Find photo in Laval Virtual ReVolution 2018.
             </p>
           </a>
 
