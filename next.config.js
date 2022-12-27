@@ -10,6 +10,9 @@ const nextConfig = {
 // module.exports = nextConfig
 
 module.exports = {
+  images: {
+    domains: ['akihiko.shirai.as'],
+  },
   assetPrefix: urlPrefix,
   basePath: urlPrefix,
   trailingSlash: true,
